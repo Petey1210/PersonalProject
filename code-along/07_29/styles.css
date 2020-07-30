@@ -26,3 +26,9 @@
 .section-header{
     margin-bottom: 20px;
 }
+.row {
+    padding: 20px;
+}
+.jumbotron{
+    margin-top: 100px;
+}
